@@ -1,0 +1,10 @@
+{
+  "name": "MPCT",
+  "plugins": [
+    {
+      "name": "Rojadirecta",
+      "file": "plugins/Rojadirecta.cs",
+      "version": 1
+    }
+  ]
+}
